@@ -1,0 +1,11 @@
+# Core dependencies for PR Analyzer
+requests>=2.31.0
+python-dotenv>=1.0.0
+mcp[cli]>=1.4.0
+notion-client>=2.3.0
+
+# Optional: Pin versions for stability
+# requests==2.31.0
+# python-dotenv==1.0.0
+# mcp[cli]==1.4.0
+# notion-client==2.3.0
